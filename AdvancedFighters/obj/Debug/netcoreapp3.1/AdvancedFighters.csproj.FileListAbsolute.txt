@@ -1,0 +1,14 @@
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.exe
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.deps.json
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.runtimeconfig.json
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.runtimeconfig.dev.json
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.dll
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\bin\Debug\netcoreapp3.1\AdvancedFighters.pdb
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.csproj.AssemblyReference.cache
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.AssemblyInfoInputs.cache
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.AssemblyInfo.cs
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.csproj.CoreCompileInputs.cache
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.dll
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.pdb
+C:\Users\omen\source\repos\AdvancedFighters\AdvancedFighters\obj\Debug\netcoreapp3.1\AdvancedFighters.genruntimeconfig.cache
